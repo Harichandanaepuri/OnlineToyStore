@@ -1,0 +1,12 @@
+li
+{
+    float: left
+}
+ul{
+    list-style-type:none;
+}
+.card-footer {
+    background: transparent;
+    border-top: transparent;
+    transition: all 1s linear;
+  }

@@ -1,0 +1,121 @@
+[{
+	"_id": {
+		"$oid": "5c921b5bc29f7e6128be6832"
+	},
+	"first_name": "Akshay",
+	"last_name": "Maganti",
+	"username": "fdsgsgggd",
+	"email": "kilbill@gmail.com",
+	"password": "$2b$10$ZWT4.5RuIhGx7S70k11tBenhch7zf7mwNPp4Q5HjLS8PGF9MA.8vi"
+},
+{
+	"_id": {
+		"$oid": "5c92b3f8a17c6001f465948a"
+	},
+	"first_name": "Akshay",
+	"last_name": "Maganti",
+	"username": "Akshay",
+	"email": "magantiakshay@gmail.com",
+	"password": "$2b$10$4Yy.0AJX4exGKPYj/DaOpOiKWKErg0D2DJvHSlFx9rcrbhvnng5zm"
+},
+{
+	"_id": {
+		"$oid": "5c92be97192a760778689714"
+	},
+	"first_name": "cool",
+	"last_name": "super",
+	"username": "helpme",
+	"email": "hello@coolio.com",
+	"password": "$2b$10$siJpeqbRnqoZMvjVAK2pVOjqmjW62QELVFAqqACum/TW5wb6SqiQq"
+},
+{
+	"_id": {
+		"$oid": "5c96c68ed99f555550eb97c0"
+	},
+	"first_name": "Hey",
+	"last_name": "There",
+	"username": "Akshay",
+	"email": "magantiakshay@gmail.com",
+	"password": "$2b$10$1biBtT.1d/SzhGAeDe0tiOlpX7fYFpurovartABGHhok.iwd6MUzO"
+},
+{
+	"_id": {
+		"$oid": "5c96c817d99f555550eb97c1"
+	},
+	"first_name": "hello ",
+	"last_name": "there",
+	"username": "heyo",
+	"email": "axm180074@utdallas.edu",
+	"password": "$2b$10$VgkmBs96mrP8RZrCEtS1MeWTVuu3HDYbv3PPCAMAFQyCTTnCPx4Cy"
+},
+{
+	"_id": {
+		"$oid": "5c9acec69d3123285c3b75a9"
+	},
+	"first_name": "",
+	"last_name": "Maganti",
+	"username": "dc297",
+	"email": "abs@123.com",
+	"password": "$2b$10$LYQXuCyWNkrqr/jkRY5WlOM08mrRw48Ik7sPnvPIHk.Ub7CL3sF2i"
+},
+{
+	"_id": {
+		"$oid": "5cbd5c2355cec54f1cff04be"
+	},
+	"first_name": "himalayas",
+	"last_name": "Maganti",
+	"username": "himalayas",
+	"email": "axm180074@utdallas.edu",
+	"password": "$2b$10$XZiXTrcdArV7.ZXMNiPFxeMV9vpj/ox255sjUTT2ijMeDeYNNxwiC"
+},
+{
+	"_id": {
+		"$oid": "5cbe13f3849de669fcb3934a"
+	},
+	"first_name": "sreekar",
+	"last_name": "sreekar",
+	"username": "sreekar",
+	"email": "sreekar@utd.com",
+	"password": "$2b$10$byC/2a6kGqwuqLjprO.Kf.WfS5MZs5soTxpPSg3zNIzH0FomWLXjq"
+},
+{
+	"_id": {
+		"$oid": "5cbf7762dc105e4cec2cb51e"
+	},
+	"first_name": "deepesh",
+	"last_name": "deepesh",
+	"username": "deepesh",
+	"email": "asd@def.io",
+	"password": "$2b$10$x7vO5oCFaulvWh1hzNa31e.K9jZhqRzztxEK7s1my4UO/HPMqfFf6"
+},
+{
+	"_id": {
+		"$oid": "5cbf973f82af514a00ec6da2"
+	},
+	"first_name": "baby",
+	"last_name": "doll",
+	"username": "babumerashona",
+	"email": "gandmara@711.com",
+	"password": "$2b$10$JVfwzzrLUl3tUMz8RqWIxeS3JAnz.ugW4qd8U33H/55VBnQSEo1Ay"
+},
+{
+	"_id": {
+		"$oid": "5cbfa0c882af514a00ec6da4"
+	},
+	"first_name": "Vamshider",
+	"last_name": "Reddy",
+	"username": "vamshider",
+	"email": "voncha.vamshider@gmil.com",
+	"password": "$2b$10$k2jzP6HhIc5Q4j.DaeNlbOtBorbSH69/2kFlMQHDmni7rok4rls46"
+},
+{
+	"_id": {
+		"$oid": "5cca08493c2a444ce489717e"
+	},
+	"first_name": "asish",
+	"last_name": "g",
+	"username": "asishg",
+	"email": "asish@gmail.com",
+	"password": "$2b$10$0SqEm63XBemk8Fru1.AJYONo.BbnolK8ofU15GGgPJ524QS1WVfde"
+}]
+
